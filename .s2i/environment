@@ -1,2 +1,3 @@
 DOTNET_STARTUP_PROJECT=Jellyfin.Server/Jellyfin.Server.csproj
 DOTNET_ASSEMBLY_NAME=jellyfin
+JELLYFIN_DATA_DIR=jellyfin
