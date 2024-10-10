@@ -1,3 +1,4 @@
-DOTNET_STARTUP_PROJECT=Jellyfin.Server/ Emby.Naming/
+DOTNET_STARTUP_PROJECT=Jellyfin.Server/
+DOTNET_STARTUP_PROJECT=Emby.Naming/
 DOTNET_ASSEMBLY_NAME=jellyfin
 
